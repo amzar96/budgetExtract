@@ -3,8 +3,8 @@ from imbox import Imbox
 
 # get unread email from gmail and download attachments
 host = 'imap.gmail.com'
-username = 'mybugdgets@gmail.com'
-password = 'sarizal123'
+username = 'REDACTED'
+password = 'REDACTED'
 download_folder = 'C:\\Users\\sariz\\OneDrive\\Desktop\\myPythonScripts\\budgetCSV'
 
 if not os.path.isdir('C:\\Users\\sariz\\OneDrive\\Desktop\\myPythonScripts\\budgetCSV'):
